@@ -1,1 +1,1 @@
-## Exercícios da orientação a objetos JS
+## Exercício de orientação a objetos JS
