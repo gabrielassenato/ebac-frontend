@@ -1,1 +1,1 @@
-## Exercícios da EBAC
+## Exercícios da orientação a objetos JS
