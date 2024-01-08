@@ -1,1 +1,1 @@
-## Exercício orientação a objetos JS
+## Exercício TypeScript
